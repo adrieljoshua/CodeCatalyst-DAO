@@ -1,0 +1,97 @@
+[
+  {
+    "module": "AI-Powered Project Management",
+    "submodules": [
+      {
+        "title": "Project Scoping Assistant",
+        "description": "An AI-driven tool that helps clients articulate their project ideas into structured modules, ensuring clarity and feasibility from the outset.",
+        "selected": true
+      },
+      {
+        "title": "Budget Allocation System",
+        "description": "Utilizes AI algorithms to assess the importance and complexity of each module, providing a fair budget distribution that reflects the project's needs.",
+        "selected": true
+      },
+      {
+        "title": "Task Allocation Engine",
+        "description": "Automatically assigns tasks to developers based on their skills, availability, and past performance, optimizing resource utilization.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Transparency and Tracking",
+    "submodules": [
+      {
+        "title": "Fund Allocation Dashboard",
+        "description": "A user-friendly interface that displays real-time information on fund distribution, ensuring clients and developers can track financial resources transparently.",
+        "selected": true
+      },
+      {
+        "title": "Progress Tracking System",
+        "description": "Monitors project milestones and deliverables, providing stakeholders with updates on the status of tasks and overall project health.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "DAO Governance",
+    "submodules": [
+      {
+        "title": "Governance Framework",
+        "description": "Establishes a decentralized governance model where stakeholders can vote on project decisions, ensuring that all voices are heard and considered.",
+        "selected": true
+      },
+      {
+        "title": "Dispute Resolution Mechanism",
+        "description": "A structured process for resolving conflicts between clients and developers, leveraging community input and smart contracts to ensure fairness.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Developer Verification",
+    "submodules": [
+      {
+        "title": "Self Protocol Integration",
+        "description": "A system that verifies developer identities through a decentralized protocol, ensuring that only qualified individuals can participate in projects.",
+        "selected": true
+      },
+      {
+        "title": "Reputation Management System",
+        "description": "Tracks developer contributions and feedback, allowing clients to assess potential collaborators based on their past performance and community ratings.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Real-Time Monitoring and Validation",
+    "submodules": [
+      {
+        "title": "GitHub Activity Analysis",
+        "description": "Monitors developers' GitHub activities in real-time, validating their contributions and ensuring that work submitted aligns with project requirements.",
+        "selected": true
+      },
+      {
+        "title": "Task Validation Protocol",
+        "description": "An automated system that verifies completed tasks against project specifications, ensuring quality and adherence to standards before approval.",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "module": "Secure Payment System",
+    "submodules": [
+      {
+        "title": "Smart Contract Escrow",
+        "description": "Utilizes smart contracts to hold funds securely until project milestones are met, ensuring that payments are only released upon satisfactory completion of work.",
+        "selected": true
+      },
+      {
+        "title": "Compensation Negotiation Tool",
+        "description": "Facilitates discussions between clients and developers regarding compensation, allowing for transparent negotiations based on project scope and developer expertise.",
+        "selected": true
+      }
+    ]
+  }
+]
